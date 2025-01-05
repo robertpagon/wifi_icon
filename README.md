@@ -3,10 +3,10 @@ Show icon in taskbar when Wi-Fi enabled.
 
 ## Before
 ![I have wired connection. Is Wi-Fi enabled?](resources/Taskbar_wo_icon.png)
-I have wired connection. Is Wi-Fi enabled?
+I have wired connection obviously. Is Wi-Fi enabled?
 
 ![Yes, Wi-Fi is enabled](resources/wifi_on.png)
-Yes, Wi-Fi is enabled
+Yes, blue button shows that Wi-Fi is enabled
 
 ## Now
 ![Icon shows Wi-Fi enabled](resources/Taskbar_with_icon.png)
