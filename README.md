@@ -9,12 +9,11 @@ Yes, Wi-Fi is enabled
 ![Yes, Wi-Fi is enabled](resources/wifi_on.png)
 
 ## Now
-Icon shows Wi-Fi enabled
+Red-on-white icon shows that Wi-Fi is enabled
 ![Icon shows Wi-Fi enabled](resources/Taskbar_with_icon.png)
 
-(Croatian is easy with Google Translate)
-
 ## Instalacija
+(Croatian is easy with Google Translate)
 0. Instaliraj [AutoHotkey](https://www.autohotkey.com/)
    - Pokreni `resources/AutoHotkey_1.1.37.02_setup.exe`
    - Ili downloadaj verziju 1.1 sa službene web stranice https://www.autohotkey.com/
@@ -34,3 +33,4 @@ Icon shows Wi-Fi enabled
 ## Todo
 - Složi python program da se ne treba instalirati AutoHotkey?
   - Nije bitno jer to neće puno povećati sigurnost.
+- Ljepša ikona?
