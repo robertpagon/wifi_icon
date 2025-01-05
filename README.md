@@ -1,9 +1,19 @@
 # wifi_icon
-Show icon in taskbar when wifi enabled.
+Show icon in taskbar when Wi-Fi enabled.
 
-(In case you don't understand Croatian, it's easy to translate the following text using Google Translate.)
+## Usualy
+![I have wired connection. Is Wi-Fi enabled?](resources/Taskbar_wo_icon.png)
+![Yes, Wi-Fi is enabled](resources/wifi_on.png)
+
+## Now
+![Icon shows Wi-Fi enabled](resources/Taskbar_with_icon.png)
+
+(Croatian is easy with Google Translate)
 
 ## Instalacija
+0. Instaliraj [AutoHotkey](https://www.autohotkey.com/)
+   - Pokreni `resources/AutoHotkey_1.1.37.02_setup.exe`
+   - Ili downloadaj verziju 1.1 sa službene web stranice https://www.autohotkey.com/
 1. Odredi direktorij u kojem će se nalaziti ovaj program
    - Ovaj direktorij stavi negdje na disk.
     Npr. trenutno je napravljeno za direktorij "C:\ProgramsPortable\wifi_icon"
@@ -16,3 +26,7 @@ Show icon in taskbar when wifi enabled.
    - Otvorit će ti se windows explorer u "win startup direktoriju".
 5. Zalijepi program u startup direktorij
    - U ovaj direktorij zaljepiš onu datoteku (desni klik "Paste").
+
+## Todo
+- Složi python program da se ne treba instalirati AutoHotkey?
+  - Nije bitno jer to neće puno povećati sigurnost.
