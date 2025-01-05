@@ -16,7 +16,7 @@ Yes, Wi-Fi is enabled
 Red-on-white icon shows that Wi-Fi is enabled
 
 ## Instalacija
-(Croatian is easy with Google Translate)
+> Croatian is easy with Google Translate
 
 0. Instaliraj [AutoHotkey](https://www.autohotkey.com/)
    - Pokreni `resources/AutoHotkey_1.1.37.02_setup.exe`
